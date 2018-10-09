@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1530254105903,"sparkVersion":"2.3.0.cloudera2","uid":"StringIndexer_4723ad602f7ea70b33dc","paramMap":{"inputCol":"intl_plan","handleInvalid":"error","outputCol":"intl_plan_indexed","stringOrderType":"frequencyDesc"}}
